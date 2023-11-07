@@ -21,4 +21,5 @@ KEY3 -->6
 KEY4 -->8  
 KEY5 -->9  
 
-https://github.com/19e2k67/Arduino_examples/blob/main/27-as608/picture/1.jpg
+![image](https://github.com/19e2k67/Arduino_examples/blob/main/27-as608/picture/1.jpg)
+
